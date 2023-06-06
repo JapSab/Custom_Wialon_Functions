@@ -43,4 +43,4 @@ def fetch_coordinates(id):
 
     
 
-fetch_coordinates(3813)
+fetch_coordinates(int(input("Enter item id: ")))
