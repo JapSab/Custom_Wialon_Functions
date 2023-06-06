@@ -1,0 +1,6 @@
+wialonenv/
+
+*.pyc
+__pycache__/
+
+.env
